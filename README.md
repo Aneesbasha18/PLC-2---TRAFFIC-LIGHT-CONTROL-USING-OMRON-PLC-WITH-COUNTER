@@ -121,6 +121,7 @@ Restart Delay	10 sec
 
 ## Output
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4718198b-a8d3-40eb-a5cc-9512a94dfeec" />
 
 
 
@@ -138,4 +139,3 @@ Restart Delay	10 sec
 
 ## Result
 The traffic light control system was successfully implemented using Omron PLC. The Red, Yellow and Green lamps operated sequentially with 5-second intervals. The cycle repeated 5 times using a counter and automatically restarted after a 10-second delay.
-
